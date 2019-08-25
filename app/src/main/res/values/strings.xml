@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MyDrawer</string>
+    <string name="aberto">Aberto</string>
+    <string name="fechado">Fechado</string>
+</resources>

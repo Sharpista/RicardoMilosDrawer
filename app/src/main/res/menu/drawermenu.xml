@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:id="@+id/informaçõespessoais" android:title="Informaçoes Pessoais" android:icon="@drawable/ic_informacoes"/>
+<item android:id="@+id/cursos" android:title="Cursos" android:icon="@drawable/ic_cursos"/>
+<item android:id="@+id/experienciaprofissional" android:title="Experiência Profissioais" android:icon="@drawable/ic_expprofissional"/>
+<item android:id="@+id/formacao" android:title="Formação" android:icon="@drawable/ic_formacao"/>
+<item android:id="@+id/publicacoes" android:title="Publicacoes" android:icon="@drawable/ic_publicacoes"/>
+
+</menu>
